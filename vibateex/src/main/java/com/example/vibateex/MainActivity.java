@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
                         // vib.cancel(); // 진동 멈춤
                         tvResult.setText("틀렸습니다. \n 이유는 별들에게 물어봐!");
                         break;
+// test 12/5
 
                     case R.id.rdo2:
                         // 폰에서 가지고 있는 알람 소리를 출력한다.

@@ -1,0 +1,2 @@
+include ':app', ':vibateex'
+rootProject.name='SeviceEx'
